@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="684c8c37-4a27-4f62-9e94-e17cc2f8eb5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="684c8c37-4a27-4f62-9e94-e17cc2f8eb5e" name="Changes" comment="example1 solved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +67,7 @@
       <recent name="io.javabrains.reactiveworkshop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise1">
+  <component name="RunManager" selected="Application.Exercise2">
     <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise1" />
       <module name="reactive-java-workshop" />
@@ -92,12 +88,17 @@
     </configuration>
     <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise2" />
-      <module name="reactive-example" />
+      <module name="reactive-java-workshop" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="io.javabrains.reactiveworkshop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
+      </extension>
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
@@ -144,8 +145,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise1" />
         <item itemvalue="Application.Exercise2" />
+        <item itemvalue="Application.Exercise1" />
         <item itemvalue="Application.Exercise7" />
         <item itemvalue="Application.Exercise9" />
         <item itemvalue="Application.Exercise8" />
@@ -160,8 +161,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650213103534</updated>
-      <workItem from="1676337535037" duration="3197000" />
+      <workItem from="1676337535037" duration="5176000" />
     </task>
+    <task id="LOCAL-00001" summary="example1 solved">
+      <created>1676344424783</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676344424783</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +187,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="example1 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="example1 solved" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

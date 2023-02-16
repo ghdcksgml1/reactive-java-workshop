@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="684c8c37-4a27-4f62-9e94-e17cc2f8eb5e" name="Changes" comment="example4 solved">
+    <list default="true" id="684c8c37-4a27-4f62-9e94-e17cc2f8eb5e" name="Changes" comment="example5 solved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,25 +71,7 @@
       <recent name="io.javabrains.reactiveworkshop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise5">
-    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise1" />
-      <module name="reactive-java-workshop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.javabrains.reactiveworkshop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
-        <option name="credential" />
-        <option name="region" />
-        <option name="useCurrentConnection" value="false" />
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercise3">
     <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise2" />
       <module name="reactive-java-workshop" />
@@ -146,13 +129,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise6" />
+      <module name="reactive-java-workshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.javabrains.reactiveworkshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise3" />
+        <item itemvalue="Application.Exercise6" />
         <item itemvalue="Application.Exercise5" />
         <item itemvalue="Application.Exercise4" />
-        <item itemvalue="Application.Exercise3" />
         <item itemvalue="Application.Exercise2" />
-        <item itemvalue="Application.Exercise1" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +160,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650213103534</updated>
-      <workItem from="1676337535037" duration="11441000" />
+      <workItem from="1676337535037" duration="12941000" />
     </task>
     <task id="LOCAL-00001" summary="example1 solved">
       <created>1676344424783</created>
@@ -194,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676523691157</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="example5 solved">
+      <created>1676526434593</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676526434593</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,7 +220,8 @@
     <MESSAGE value="example2 solved" />
     <MESSAGE value="example3 solved" />
     <MESSAGE value="example4 solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="example4 solved" />
+    <MESSAGE value="example5 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="example5 solved" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
